@@ -1,7 +1,7 @@
 h1 {color: palevioletred;}
 #f1 {color: royalblue;}
 .f2 {color: darkseagreen;}
-#grande .interior b {
+#grande .interior em {
 	color: red;
 	background-color: gray;}
 #medio .interior b {
