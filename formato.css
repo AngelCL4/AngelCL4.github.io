@@ -1,3 +1,12 @@
 h1 {color: palevioletred;}
 #f1 {color: royalblue;}
 .f2 {color: darkseagreen;}
+#grande .interior b {
+	color: red;
+	background-color: gray;}
+#medio .interior b {
+	color:  blue;
+	background-color: black;}
+#pequeño .interior b {
+	color: green;
+	background-color: orange;}
