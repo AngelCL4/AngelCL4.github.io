@@ -335,7 +335,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#B946AD !important;}
 .row0{color:#FFFFFF; background-color:#161C21;}
 .row1{color:#FFFFFF; background-color:rgba(0,0,0,.75);}
 .row2{color:#474747; background-color:#F4F4F4;}
-.row3{color:#474747; background-color:#FFFFFF;}
+.row3{color:#474747; background-color:#000000;}
 .row4{color:#A5A6AA; background-color:#000000;}
 .row5, .row5 a{color:#A5A6AA; background-color:#161C21;}
 
